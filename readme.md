@@ -1,7 +1,7 @@
 [![Jikan](http://i.imgur.com/ctoJ3Jp.png)](#jikan---unofficial-myanimelistnet-php-api)
 
 # Jikan - Unofficial MyAnimeList.net PHP API
-[![Netlify Status](https://api.netlify.com/api/v1/badges/4c10e2c0-4860-48f5-9eae-171bce417890/deploy-status)](https://app.netlify.com/sites/hardcore-archimedes-6ebd1f/deploys) [![Discord Server](https://img.shields.io/discord/460491088004907029.svg?style=flat&logo=discord)](http://discord.jikan.moe)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4c10e2c0-4860-48f5-9eae-171bce417890/deploy-status)](https://app.netlify.com/sites/hardcore-archimedes-6ebd1f/deploys) [![Discord Server](https://img.shields.io/discord/460491088004907029.svg?style=flat&logo=discord)](http://discord.jikan.moe)[![Changli Bot](https://files.catbox.moe/3w08nc.jpg)](https://chat.whatsapp.com/LqYF831UPnKAR3tqMCL60f)
 
 
 Jikan is a PHP API for [MyAnimeList.net](https://myanimelist.net). It scrapes the website to satisfy the need for an API - which MyAnimeList lacks.
