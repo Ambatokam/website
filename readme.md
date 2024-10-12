@@ -14,7 +14,7 @@ This repository represents [Jikan.moe](https://jikan.moe). Please feel free to c
 ### Design
 - [Preview](https://www.behance.net/gallery/79464619/Jikan-API-website-Re-design)
 - [Adobe XD file](https://github.com/jikan-me/website/blob/master/design/jikan.xd)
-- [Whatsapp Bot Group](https://chat.whatsapp.com/LqYF831UPnKAR3tqMCL60f)
+- [YannnXD](https://wa.me/6283861772386)
 
 
 ### Tools used
